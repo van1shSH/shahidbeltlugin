@@ -1,0 +1,10 @@
+name: ShahidBeltPlugin
+version: '1.0'
+main: me.vanish.shahidBeltPlugin.Plugin
+api-version: '1.21'
+commands:
+  createexplsion:
+  shahidbelt:
+    description: Gives the player a Shahid Belt.
+    usage: /shahidbelt
+    permission: shahidbelt.use

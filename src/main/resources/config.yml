@@ -1,0 +1,6 @@
+boom:
+  power: 4f
+  sound:
+    name: "boom"
+    volume: 1f
+    pitch: 1f
